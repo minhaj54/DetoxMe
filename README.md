@@ -43,4 +43,6 @@ Customize notifications, themes, and reminders.
 Set personalized goals for screen time reduction.
 
 ## Screenshots 
-[detox me screen shots.pdf](https://github.com/user-attachments/files/19541056/detox.me.screen.shots.pdf)
+<img width="1588" alt="Screenshot 2025-03-31 at 1 14 36 PM" src="https://github.com/user-attachments/assets/cecb2a2a-6a57-4d26-bfb8-10f5dc34e954" />
+
+
